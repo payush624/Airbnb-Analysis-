@@ -1,14 +1,14 @@
 # Airbnb-Analysis-of New York City
 This dataset contains data about people of NYC who use Airbnb so they can list their Poperty/Apartment on rent, Airbnb acts as an intermediary between people who wants to rent their place and those who want that space for someday.
 
-To check out Notebook click Here!
+To check out Notebook click Here!(https://github.com/payush624/Airbnb-Analysis-/blob/main/Airbnb_Analysis_of_NewYorkCity.ipynb)
 
 Key Learning:
 
-Libraries: Pandas, Numpy, Plotly, Seaborn, Folium.
-Explored data using .head(), .describe(), .groupby() and more!
-Cleaned data by filling and replacing missing values and extracted information, insights and made dataset more readable.
-Visualized data using Plotly,Seaborn library.
+- Libraries: Pandas, Numpy, Plotly, Seaborn, Folium.
+- Explored data using .head(), .describe(), .groupby() and more!
+- Cleaned data by filling and replacing missing values and extracted information, insights and made dataset more readable.
+- Visualized data using Plotly,Seaborn library.
 
 Findings:
 
