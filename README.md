@@ -31,6 +31,7 @@ Fig.1 - Aibnb NYC Tableau Dashboard
 Fig.2 - Price Variation across NYC
 </p>
 
+<p align = "center">
 <img src = https://github.com/payush624/Airbnb-Analysis-/blob/main/price%20distribution%20by%20neighbourhood.png>
 </p>
 <p align = "center">
