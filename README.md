@@ -22,5 +22,17 @@ Visualization:
 <img src = https://github.com/payush624/Airbnb-Analysis-/blob/main/Airbnb%20NYC%20Tableau%20SS.png>
 </p>
 <p align = "center">
-Fig.1 - Non Disaster Tweet Example
+Fig.1 - Aibnb NYC Tableau Dashboard
+</p>
+
+<img src = https://github.com/payush624/Airbnb-Analysis-/blob/main/price%20variation.png>
+</p>
+<p align = "center">
+Fig.2 - Price Variation across NYC
+</p>
+
+<img src = https://github.com/payush624/Airbnb-Analysis-/blob/main/price%20distribution%20by%20neighbourhood.png>
+</p>
+<p align = "center">
+Fig.3 - Price Distribution by Neighbourhood
 </p>
