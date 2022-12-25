@@ -16,6 +16,7 @@ Findings:
 - Also saw that mostly "Entire Home/apt" is the most common room type available and there are less no of shared room available in New York City.
 - Observed that Sonder have most no of listings in NYC's Manhattan's neighbourhood and all the top 5 listings are from Manhattan.
 - More than 35000+ People have listed their house/apt/Property on Airbnb.
+- August, 2022 has most number of reviews so its fair to assume, August was the peak month over rest of the months.
 
 Visualization:
 
